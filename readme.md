@@ -50,10 +50,10 @@ O DevLinks é uma aplicação web que funciona como um cartão de visitas digita
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Desenvolvido por Wellington durante o curso Discover da Rocketseat. 🚀 :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Desenvolvido por Wellington Andrade durante o curso Discover da Rocketseat. 🚀 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
